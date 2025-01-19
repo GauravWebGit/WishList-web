@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import Header from "./Componet/Header";
 import Home from "./Container/Home";
